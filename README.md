@@ -27,8 +27,9 @@ V.POOJAA SREE
 212223040147
 
 ## C program that receives a message from message queue and display them
-```
+
 write.c
+```
 // C Program for Message Queue (Writer Process) 
 #include <stdio.h> 
 #include <sys/ipc.h> 
